@@ -2,8 +2,6 @@
 
 This is my humble attempt at making [@okla](https://github.com/okla)'s [swift-xattr](https://github.com/okla/swift-xattr) easier to use.
 
-I have no idea what his code actually _does_, and I don't know how to use those xattr methods at all, I just coppied his base code and changed the way to use it.
-
 ###Installation###
 
 Just add `NSURL+xattr.swift` to your project.
