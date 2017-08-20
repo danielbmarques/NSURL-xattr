@@ -2,11 +2,11 @@
 
 This is my humble attempt at making [@okla](https://github.com/okla)'s [swift-xattr](https://github.com/okla/swift-xattr) easier to use.
 
-###Installation###
+## Installation
 
 Just add `NSURL+xattr.swift` to your project.
 
-###Usage###
+## Usage
 
 ```swift
 let url = documentsDirectory.URLByAppendingPathComponent("example.txt")
